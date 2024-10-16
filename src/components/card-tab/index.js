@@ -137,8 +137,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Customize the device settings to cater to a specific use-case each time.
                 </p>
               </li>
               <li className="feature-item">
@@ -158,8 +157,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Use Hexnode’s Advanced Kiosk settings for additional restrictions or expanded device functionalities while in kiosk mode.
                 </p>
               </li>
               <li className="feature-item">
@@ -179,8 +177,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Empower your administrators with full control over the kiosk devices.
                 </p>
               </li>
             </ul>
@@ -213,8 +210,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Limit device access to approved apps, ensuring focus and productivity.
                 </p>
               </li>
               <li className="feature-item">
@@ -234,8 +230,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                With default phone and settings app inclusion, reduce distractions by providing users access to essential functions only.
                 </p>
               </li>
               <li className="feature-item">
@@ -255,8 +250,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                With Hexnode's peripheral settings admins can allow necessary device settings while retaining control.
                 </p>
               </li>
               <li className="feature-item">
@@ -276,8 +270,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Simplify device management while empowering user productivity by deploying Multi-App Kiosk Mode.
                 </p>
               </li>
             </ul>
@@ -292,7 +285,7 @@ export const CardTab = () => {
         <div className="row">
           <div className="column">
             <h3 className="m-4">
-              Explore the new way to manage web apps and websites
+            Explore the new way to manage web apps and websites
             </h3>
             <ul className="tick-points">
               <li className="feature-item">
@@ -312,8 +305,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Let users access essential and approved web apps, website and files only.
                 </p>
               </li>
               <li className="feature-item">
@@ -333,8 +325,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Make the best use of website kiosk with Hexnode's advanced settings.
                 </p>
               </li>
               <li className="feature-item">
@@ -354,8 +345,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Tailor your experience to match your unique use case.
                 </p>
               </li>
               <li className="feature-item">
@@ -375,8 +365,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                From configuring toolbar options to scheduling page refresh, remote debugging, and limiting incognito tabs, take full control of your website kiosk experience.
                 </p>
               </li>
             </ul>
@@ -411,8 +400,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Transform your devices into captivating digital signage kiosks that grab attention.
                 </p>
               </li>
               <li className="feature-item">
@@ -432,8 +420,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Engage your audience with vibrant images and seamless video streaming.
                 </p>
               </li>
               <li className="feature-item">
@@ -453,8 +440,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Customize media files with trimming, muting, and background music.
                 </p>
               </li>
               <li className="feature-item">
@@ -474,8 +460,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Advertise and show off your brand aesthetics to attract customers in different ways.
                 </p>
               </li>
             </ul>
@@ -510,8 +495,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                A feature that empowers your iOS app to seamlessly secure itself in the foreground.
                 </p>
               </li>
               <li className="feature-item">
@@ -531,8 +515,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Transform tablets or devices into dedicated point-of-sale (POS) systems by preventing interruptions from other applications or notifications.
                 </p>
               </li>
               <li className="feature-item">
@@ -552,8 +535,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Create focused, efficient and secure digital environments to match your requirements.
                 </p>
               </li>
               <li className="feature-item">
@@ -573,8 +555,7 @@ export const CardTab = () => {
                   </svg>
                 </span>
                 <p className="text-black tab-point">
-                  Provision the devices to run one specialized application, with
-                  limited functionalities.
+                Configure ASAM effortlessly and elevate your user experience like never before.
                 </p>
               </li>
             </ul>
